@@ -1,5 +1,6 @@
-<!-- Header banner (swap for your own image later, e.g. ./banner/github_banner.png) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Abdullah%20al%20Shawon&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20from%20Bangladesh&descAlignY=58&descSize=18" alt="Abdullah al Shawon banner" width="100%" />
+<p align="center">
+  <img src="banner/github_banner.png" alt="Hello world - Abdullah al Shawon" width="100%" />
+</p>
 
 # Hi 👋, I'm Abdullah al Shawon
 
@@ -21,9 +22,11 @@
 
 ## 🌐 Follow Me On Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-swn)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18919839)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flameriser78@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/abdullah-swn" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" height="40" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/18919839" target="_blank"><img src="assets/stackoverflow.svg" alt="Stack Overflow" height="40" /></a>
+</p>
 
 ---
 
@@ -61,10 +64,11 @@
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonndev&show_icons=true&theme=swift&hide_border=true&include_all_commits=false&count_private=false) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonndev&theme=swift&hide_border=true&include_all_commits=false&layout=compact) |
 | :---: | :---: |
 
-### Repository Stats & Streak
+### Streak
 
-| ![Contributor stats](https://github-contributor-stats.vercel.app/api?username=shawonndev&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true) | ![Streak stats](https://streak-stats.demolab.com/?user=shawonndev) |
-| :---: | :---: |
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shawonndev" alt="GitHub streak stats" />
+</p>
 
 ---
 
